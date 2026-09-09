@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "686813771735",
+    "project_id": "play-nest-13ba6",
+    "storage_bucket": "play-nest-13ba6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686813771735:android:dd75264fc9cc21eaef3d92",
+        "android_client_info": {
+          "package_name": "com.aistudio.playnest.xnvk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxTYoUeWnAeGwxXmvegRaHeeWV4sfmtUU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
